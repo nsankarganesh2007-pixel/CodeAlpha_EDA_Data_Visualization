@@ -1,0 +1,25 @@
+OrderDate,Region,Product,Category,UnitsSold,UnitPrice,Salesperson
+2026-01-03,North,Notebook,Stationery,12,45,Anu
+2026-01-05,South,Pen Set,Stationery,20,30,Bala
+2026-01-08,East,Water Bottle,Accessories,8,180,Charan
+2026-01-12,West,Backpack,Accessories,5,850,Divya
+2026-01-15,North,Pen Set,Stationery,15,30,Anu
+2026-01-18,South,Notebook,Stationery,10,45,Bala
+2026-01-21,East,Backpack,Accessories,4,850,Charan
+2026-01-24,West,Water Bottle,Accessories,11,180,Divya
+2026-02-02,North,Backpack,Accessories,6,850,Anu
+2026-02-04,South,Water Bottle,Accessories,9,180,Bala
+2026-02-09,East,Notebook,Stationery,18,45,Charan
+2026-02-11,West,Pen Set,Stationery,22,30,Divya
+2026-02-14,North,Water Bottle,Accessories,7,180,Anu
+2026-02-17,South,Backpack,Accessories,3,850,Bala
+2026-02-20,East,Pen Set,Stationery,25,30,Charan
+2026-02-25,West,Notebook,Stationery,14,45,Divya
+2026-03-01,North,Notebook,Stationery,16,45,Anu
+2026-03-04,South,Pen Set,Stationery,28,30,Bala
+2026-03-07,East,Water Bottle,Accessories,12,180,Charan
+2026-03-10,West,Backpack,Accessories,7,850,Divya
+2026-03-13,North,Pen Set,Stationery,24,30,Anu
+2026-03-16,South,Notebook,Stationery,13,45,Bala
+2026-03-19,East,Backpack,Accessories,5,850,Charan
+2026-03-22,West,Water Bottle,Accessories,15,180,Divya
